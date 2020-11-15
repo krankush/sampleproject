@@ -11,6 +11,7 @@ import javax.ws.rs.core.MediaType;
 public class HelloResource {
     @GET
     public String sayHello(@QueryParam("name") String Name){
+        System.out.println("HelloResource");
         return "xyz>";
     }
 }
