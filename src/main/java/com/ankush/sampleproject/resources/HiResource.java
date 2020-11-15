@@ -11,6 +11,7 @@ import javax.ws.rs.core.MediaType;
 public class HiResource {
     @GET
     public String sayHi(@QueryParam("heading") String heading) {
+        System.out.println("HiResource");
         return "<html><body><h1 style='color:green'>"+heading+"</h1><br><p style='color:red'>My name is Khan and I am not a terrorist</p></body></html>";
     }
 }
