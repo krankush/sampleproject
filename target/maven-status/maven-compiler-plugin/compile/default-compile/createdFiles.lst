@@ -1,4 +1,9 @@
-com\ankush\sampleproject\HiConfiguration.class
 com\ankush\sampleproject\resources\HelloResource.class
-com\ankush\sampleproject\HiApplication.class
+com\ankush\sampleproject\mapper\EmployeeMapper.class
 com\ankush\sampleproject\resources\HiResource.class
+com\ankush\sampleproject\dao\EmployeeDao.class
+com\ankush\sampleproject\SampleProjectApplication.class
+com\ankush\sampleproject\entity\Employee.class
+com\ankush\sampleproject\service\EmployeeService.class
+com\ankush\sampleproject\SampleProjectConfiguration.class
+com\ankush\sampleproject\service\NameProcessor.class
