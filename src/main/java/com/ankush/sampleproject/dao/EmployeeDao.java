@@ -1,6 +1,4 @@
 package com.ankush.sampleproject.dao;
-
-
 import com.ankush.sampleproject.entity.Employee;
 import com.ankush.sampleproject.mapper.EmployeeMapper;
 import org.skife.jdbi.v2.sqlobject.Bind;

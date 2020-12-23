@@ -3,8 +3,8 @@ package com.ankush.sampleproject;
 import com.ankush.sampleproject.entity.Employee;
 import com.ankush.sampleproject.resources.HelloResource;
 import com.ankush.sampleproject.resources.HiResource;
-import com.ankush.sampleproject.service.EmployeeService;
-import com.ankush.sampleproject.service.NameProcessor;
+import com.ankush.sampleproject.resources.MovieResource;
+import com.ankush.sampleproject.service.*;
 import io.dropwizard.Application;
 import io.dropwizard.db.DataSourceFactory;
 import io.dropwizard.setup.Bootstrap;
@@ -58,5 +58,9 @@ public class SampleProjectApplication extends Application<SampleProjectConfigura
         environment.jersey().register(resource);
         HelloResource helloResource= new HelloResource(new NameProcessor(), dbi.onDemand(EmployeeService.class));
         environment.jersey().register(helloResource);
+        FetchNewArrivalsApi fetchNewArrivalsApi = new FetchNewArrivalsApi();
+
+        MovieResource movieResource = new MovieResource(dbi.onDemand(UserService.class),dbi.onDemand(MovieService.class),fetchNewArrivalsApi);
+        environment.jersey().register(movieResource);
     }
 }

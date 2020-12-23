@@ -1,8 +1,8 @@
 package com.ankush.sampleproject.resources;
 
 import com.ankush.sampleproject.service.EmployeeService;
+import com.ankush.sampleproject.service.FetchNewArrivalsApi;
 import com.ankush.sampleproject.service.NameProcessor;
-import com.codahale.metrics.annotation.Timed;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
@@ -36,8 +36,8 @@ public class HelloResource {
     }
 
     @GET
-    @Timed
     @Path("/employee")
     public Response getEmployees(){return Response.ok(employeeService.getAllEmployees()).build();}
+
 
 }
