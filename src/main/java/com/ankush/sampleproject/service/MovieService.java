@@ -20,7 +20,12 @@ public abstract class MovieService {
         return getMovieDao().getMovies();
     }
 
-    public int noOfMoviesService(){ return getMovieDao().noOfMoviesDao(); }
+    public int noOfMoviesService(){
+        int val=getMovieDao().noOfMoviesDao();
+        System.out.println("Value====");
+        System.out.println(val);
+        return val;
+    }
 
     public List<ImageUrlMovieClass> getAllMovieV1(int pageNo, int noOfMovies){
         List<ImageUrlMovieClass> movieList=getImageUrlDao().getMoviesImageUrl((pageNo-1)*noOfMovies,noOfMovies);
@@ -29,18 +34,32 @@ public abstract class MovieService {
     }
 
     public void setMovie(MovieList movieList) {
+        System.out.println("======");
+        System.out.println(movieList.results.size());
         for (int i = 0; i < movieList.results.size(); i++) {
    //        int i=0;
-            getMovieDao().movieV1(movieList.results.get(i).imageUrl.get(0),movieList.results.get(i).imdbId, movieList.results.get(i).imdbRating, movieList.results.get(i).released, movieList.results.get(i).runtime, movieList.results.get(i).synopsis, movieList.results.get(i).title, movieList.results.get(i).type,movieList.results.get(i).streamingAvailability.country.get("IN").get(0).get("platform"),movieList.results.get(i).streamingAvailability.country.get("IN").get(0).get("url"));
-            for (int j = 0; j < movieList.results.get(i).genre.size(); j++) {
-                getMovieDao().genreMovie(movieList.results.get(i).genre.get(j), movieList.results.get(i).imdbId);
-            }
-            for (int j = 0; j < movieList.results.get(i).language.size(); j++) {
-                getMovieDao().languageMovie(movieList.results.get(i).language.get(j), movieList.results.get(i).imdbId);
-            }
-          //  getMovieDao().streamingAvailabilityMoviesPlatform(movieList.results.get(0).streamingAvailability.country.get("IN").get(0).get("platform"), movieList.results.get(0).imdbId);
-          //  getMovieDao().streamingAvailabilityMoviesUrl(movieList.results.get(0).streamingAvailability.country.get("IN").get(0).get("url"), movieList.results.get(0).imdbId);
+            System.out.println("-----");
 
+            if(movieList.results.get(i).imageUrl.size()==0){
+                continue;
+            }
+            String StreamingAvailabilityPlatform="";
+            String StreamingAvailabilityPlatformUrl="";
+            if(movieList.results.get(i).streamingAvailability.country.get("IN").size()>0){
+                StreamingAvailabilityPlatform=movieList.results.get(i).streamingAvailability.country.get("IN").get(0).get("platform");
+                StreamingAvailabilityPlatformUrl=movieList.results.get(i).streamingAvailability.country.get("IN").get(0).get("url");
+
+                getMovieDao().movieV1(movieList.results.get(i).imageUrl.get(0),movieList.results.get(i).imdbId, movieList.results.get(i).imdbRating, movieList.results.get(i).released, movieList.results.get(i).runtime, movieList.results.get(i).synopsis, movieList.results.get(i).title, movieList.results.get(i).type,StreamingAvailabilityPlatform,StreamingAvailabilityPlatformUrl);
+
+                for (int j = 0; j < movieList.results.get(i).genre.size(); j++) {
+                    getMovieDao().genreMovie(movieList.results.get(i).genre.get(j), movieList.results.get(i).imdbId);
+                }
+                for (int j = 0; j < movieList.results.get(i).language.size(); j++) {
+                    getMovieDao().languageMovie(movieList.results.get(i).language.get(j), movieList.results.get(i).imdbId);
+                }
+
+            }
+            // if(movieList.results.get(i).imageUrl.get(0),movieList.results.get(i).imdbId, movieList.results.get(i).imdbRating, movieList.results.get(i).released, movieList.results.get(i).runtime, movieList.results.get(i).synopsis, movieList.results.get(i).title, movieList.results.get(i).type,movieList.results.get(i).streamingAvailability.country.get("IN").get(0).get("platform"),movieList.results.get(i).streamingAvailability.country.get("IN").get(0).get("url"))
         }
     }
 }

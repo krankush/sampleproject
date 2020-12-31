@@ -1,0 +1,366 @@
+ [
+
+
+
+ Result{genre=[Drama, Romance], imageUrl=[https://m.media-amazon.com/images/M/MV5BNDdkMjc1YWYtMjhiYS00ZTVlLWFkNDItNmU1MWU1NTdmNjg3XkEyXkFqcGdeQX
+VyMTkxNjUyNQ@@._V1_UY268_CR155,0,182,268_AL_.jpg], imdbId='tt9827834', imdbRating=6.9, language=[English], released=2020, runtime='114 min', streamingAvailability=
+com.ankush.sampleproject.entity.StreamingAvailability@64e6664e, synopsis='A woman working at her father's record store in Harlem in the late 1950s meets an aspirin
+g saxophone player.', title='Sylvie's Love', type='movie'},
+
+
+
+Result{genre=[Action, Adventure, Animation], imageUrl=[https://m.media-amazon.com/images/M/MV5BNzY3YTUw
+YTQtNjkwNy00OTAyLWE0OWEtYmE3MGIyOWZkODY1XkEyXkFqcGdeQXVyMjkyNzYwMTc@._V1_UX182_CR0,0,182,268_AL_.jpg], imdbId='tt9580138', imdbRating=7.5, language=[English], rele
+ased=2020, runtime='80 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@29e5f936, synopsis='Hanzo Hasashi loses his clan, family,
+and his life during an attack by a rival ninja clan. He is given the chance to compete in an interdimensional tournament to save his loved ones.', title='Mortal Ko
+mbat Legends: Scorpion's Revenge', type='movie'},
+
+
+
+Result{genre=[Drama], imageUrl=[https://m.media-amazon.com/images/M/MV5BYWI3OWVkOGUtNGY4MS00NDJkLWEyYjktMGZhZTBlZ
+DM3MmNkXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_UY268_CR7,0,182,268_AL_.jpg], imdbId='tt11772702', imdbRating=5.0, language=[Tamil], released=2020, runtime='119 min', stre
+amingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@2b4a3082, synopsis='', title='Meendum Oru Mariyathai', type='movie'},
+
+
+
+Result{genre=[Comedy,
+ Drama], imageUrl=[https://m.media-amazon.com/images/M/MV5BOTM4ZmYyNWUtYzU4MS00ODBiLWI4ZTctODgzNzhhZjg2YmFiXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_UX182_CR0,0,182,268_AL_
+.jpg], imdbId='tt11731984', imdbRating=6.8, language=[Tamil], released=2020, runtime='145 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvai
+lability@2a4a581, synopsis='When Prabhu is approached by a doctor from a fertility clinic, he agrees to donate his sperm to make some money. While his sperm is hig
+hly successful, his own life gets twisted around because of it.', title='Dharala Prabhu', type='movie'},
+
+
+
+Result{genre=[Thriller], imageUrl=[https://m.media-amazon.
+com/images/M/MV5BMzAwNjA4MTctMDY0Mi00ZDY4LWJkYTQtZWIzYTA2YTIyZGZmXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_UY268_CR7,0,182,268_AL_.jpg], imdbId='tt11617442', imdbRating=3.0
+, language=[Tamil], released=2020, runtime='115 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@55a7778d, synopsis='A train robbe
+ry happened between Salem and Chennai and two years later the money travels from India to Australia.', title='Day knight', type='movie'},
+
+
+
+Result{genre=[Drama], ima
+geUrl=[https://m.media-amazon.com/images/M/MV5BZDZiNzkxZGUtM2FmZC00NjZmLWE3YzItYjA2MDJlNTJkNGE1XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UX182_CR0,0,182,268_AL_.jpg], imdbI
+d='tt11318228', imdbRating=6.4, language=[Tamil], released=2020, runtime='138 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@538
+d1846, synopsis='A simple father's life whose one mistake breaks him away from his dear family. Even after many years, when he finally meets his family, the same m
+istake haunts him back in a different form which unfolds into an emotionally gripping climax.', title='Vaanam Kottattum', type='movie'},
+
+
+
+Result{genre=[Comedy], ima
+geUrl=[https://m.media-amazon.com/images/M/MV5BMzRiZGZmYWMtMmNhYy00NmE3LTgxZjItMDc1YzMxNTExM2VlXkEyXkFqcGdeQXVyMTEwNjA3NjE1._V1_UY268_CR1,0,182,268_AL_.jpg], imdbI
+d='tt11143108', imdbRating=8.1, language=[Tamil], released=2020, runtime='151 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@293
+9fc95, synopsis='When you think marrying your best friend means a 'happily ever-after' but it turns out to be just the reverse', title='Oh My Kadavule', type='movi
+e'},
+
+
+
+Result{genre=[Drama], imageUrl=[], imdbId='tt10539608', imdbRating=0.0, language=[English], released=2020, runtime='\N min', streamingAvailability=com.ankush.
+sampleproject.entity.StreamingAvailability@e16dc9e, synopsis='This post-apocalyptic tale follows Augustine, a lonely scientist in the Arctic, as he races to stop S
+ully and her fellow astronauts from returning home to a mysterious global catastrophe.', title='The Midnight Sky', type='movie'},
+
+
+
+Result{genre=[Action, Comedy, Hor
+ror], imageUrl=[https://m.media-amazon.com/images/M/MV5BNmMwZWRkMDktMDQyYS00NmNlLWEzMDMtMTVkYjg3NmZlNGU1XkEyXkFqcGdeQXVyMzAzMzkzNTU@._V1_UX182_CR0,0,182,268_AL_.jp
+g], imdbId='tt10415510', imdbRating=5.1, language=[Tamil], released=2020, runtime='\N min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailabi
+lity@6063c9ce, synopsis='This is about a life struggle of a man who's trying to become a policeman as his family members wish and forced him to become police and s
+ave their village.', title='Taana', type='movie'},
+
+
+
+Result{genre=[Romance], imageUrl=[https://m.media-amazon.com/images/M/MV5BZDU4MGQyMjYtNGI5My00NjAzLWJlYzUtYTJlNj
+gwN2I4NGJhXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_UY268_CR4,0,182,268_AL_.jpg], imdbId='tt10329134', imdbRating=8.0, language=[Mandarin, English, Min Nan], released=2020,
+ runtime='118 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@5b17b2ac, synopsis='In 1988, martial law ends in Taiwan and two sch
+oolboys, A-han and Birdy, are about to enter into an illicit love affair after meeting in the school band led by a Canadian priest named ...', title='The Name Engr
+aved in Your Heart', type='movie'},
+
+
+
+Result{genre=[Action, Drama], imageUrl=[https://m.media-amazon.com/images/M/MV5BZmYxN2QyN2YtYjhiMS00ZDczLWEyODctNDFkM2UwNjk5MmE
+wXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR7,0,182,268_AL_.jpg], imdbId='tt10022990', imdbRating=5.4, language=[Tamil], released=2020, runtime='123 min', streamingA
+vailability=com.ankush.sampleproject.entity.StreamingAvailability@3d2c200f, synopsis='A guy from a small-town takes on a ruthless criminal lawyer for his friend an
+d sister(s).', title='Seeru', type='movie'},
+
+
+
+Result{genre=[Action, Drama, Sport], imageUrl=[https://m.media-amazon.com/images/M/MV5BYTIyNWM5YzgtZDhkNC00MmZjLWIxODI
+tYTViZmVmZjlkMDE3XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UX182_CR0,0,182,268_AL_.jpg], imdbId='tt9260636', imdbRating=6.8, language=[Tamil, Telugu], released=2019, runtim
+e='179 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@5e6f918, synopsis='A former football player struggles to train a women's f
+ootball team and avenge his father's death.', title='Bigil', type='movie'},
+
+
+
+Result{genre=[Drama], imageUrl=[https://m.media-amazon.com/images/M/MV5BMTlhMGQ2Y2UtNGU
+2Yy00ZjU5LWJiYjItZDZkYzI4OWEzODhhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg], imdbId='tt8406866', imdbRating=5.5, language=[Hindi], released=2019
+, runtime='136 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@7b356dd3, synopsis='The film is based on the life of Shri S.P. Cha
+uhan (Thakur Satpal Chauhan), a famous social worker from Karnal, Haryana. It highlights his journey from poverty to prosperity in adverse ...', title='S.P. Chauha
+n', type='movie'},
+
+
+
+Result{genre=[Comedy, Drama], imageUrl=[https://m.media-amazon.com/images/M/MV5BYmFiNzE3ZDgtMzA2OC00NzNlLTlmZmItMDE3YmRmYTQyNmNhXkEyXkFqcGdeQXVy
+OTAzMTc2MjA@._V1_UY268_CR110,0,182,268_AL_.jpg], imdbId='tt10017956', imdbRating=7.0, language=[Hindi], released=2019, runtime='110 min', streamingAvailability=com
+.ankush.sampleproject.entity.StreamingAvailability@1dd122cb, synopsis='Enakshi is diagnosed with Alopecia, where she begins to lose hair from her scalp. Although s
+he finds her temporary fix to this, it begins to steal previous years of her youth and takes her life by a storm. Will she be able to find a cure?', title='Gone Ke
+sh', type='movie'},
+
+
+
+Result{genre=[Action, Drama, Romance], imageUrl=[https://m.media-amazon.com/images/M/MV5BZWIwYjRmMmUtODNmYS00NzQzLWExNGQtMWJkNjBlMWQ0YTcyXkEyXk
+FqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR5,0,182,268_AL_.jpg], imdbId='tt8388508', imdbRating=7.3, language=[Telugu, Kannada, Tamil, Malayalam], released=2019, runtime='
+169 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@41a14526, synopsis='A hot-blooded student union leader falls for a state-leve
+l cricketer but his anger management issues and violent streak threatens to derail their love story.', title='Dear Comrade', type='movie'},
+
+
+
+Result{genre=[Comedy, D
+rama, Romance], imageUrl=[https://m.media-amazon.com/images/M/MV5BMjY5MTQ4MDgtZDc4ZC00ODA3LWJlYjAtMTc3MzJhNDIxMDBlXkEyXkFqcGdeQXVyNDAyMjYyMzQ@._V1_UY268_CR9,0,182,
+268_AL_.jpg], imdbId='tt9014884', imdbRating=7.5, language=[Gujarati], released=2018, runtime='137 min', streamingAvailability=com.ankush.sampleproject.entity.Stre
+amingAvailability@73bd4a33, synopsis='Satya and Saavi are a couple who are poles apart in personality and are introduced to each other as prospective marriage part
+ners. Their crazy romantic story forms the crux of the plot.', title='Sharato Lagu', type='movie'},
+
+
+
+Result{genre=[Drama, Horror, Mystery], imageUrl=[https://m.medi
+a-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_UX182_CR0,0,182,268_AL_.jpg], imdbId='tt7784604', imdbRa
+ting=7.3, language=[English, Spanish], released=2018, runtime='127 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@23b6fa62, syno
+psis='A grieving family is haunted by tragic and disturbing occurrences.', title='Hereditary', type='movie'},
+
+
+
+Result{genre=[Drama, Music], imageUrl=[https://m.medi
+a-amazon.com/images/M/MV5BOTU2YjVhNjMtMGQ4ZC00ZmUyLWJlZjAtNTgyZjhjZmQwNWUwXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg], imdbId='tt5960374', imdbRa
+ting=5.9, language=[English, Croatian, Chinese], released=2018, runtime='114 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@3765
+53a5, synopsis='An unusual set of circumstances brings unexpected success to a pop star.', title='Vox Lux', type='movie'},
+
+
+
+Result{genre=[Family], imageUrl=[https:/
+/m.media-amazon.com/images/M/MV5BOThjZGRkZTEtZDliZi00OTgxLWExODUtMTljOTEwYTNhNTA2XkEyXkFqcGdeQXVyNDI3OTc1MDk@._V1_UX182_CR0,0,182,268_AL_.jpg], imdbId='tt8244578',
+ imdbRating=4.5, language=[English], released=2018, runtime='87 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@7c26b81a, synopsi
+s='Izzy is an energetic 9-year-old. Overscheduled and running late, Izzy's parents can't pick her up on-time the last day of school before Christmas break. A blizz
+ard complicates the matter, ...', title='Christmas Break-In', type='tvMovie'},
+
+
+
+Result{genre=[Drama], imageUrl=[https://m.media-amazon.com/images/M/MV5BYzEwOTNhNTkt
+YjIzNi00MDVjLTliNmEtY2YzZTIzMWNjYTRjXkEyXkFqcGdeQXVyMjA4NjI1MzU@._V1_UX182_CR0,0,182,268_AL_.jpg], imdbId='tt7207156', imdbRating=5.7, language=[Hindi], released=2
+017, runtime='129 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@65d3897f, synopsis='A young engineering student is forced to he
+lp authorities find his roommate after the latter is suspected of masterminding a series of bombings.', title='Sameer', type='movie'},
+
+
+
+Result{genre=[Action, Comedy
+, Romance], imageUrl=[https://m.media-amazon.com/images/M/MV5BYzJkZTdmOWItNzIzZC00M2VjLThiZTAtYzgyMDdhZTY1YzE4XkEyXkFqcGdeQXVyMzU0ODc1MTQ@._V1_UY268_CR3,0,182,268_
+AL_.jpg], imdbId='tt6138680', imdbRating=5.4, language=[Telugu], released=2017, runtime='126 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingA
+vailability@71a20a4d, synopsis='A romantic drama starring Sharwanand and Lavanya Tripathi.', title='Radha', type='movie'},
+
+
+
+Result{genre=[Drama, Family, Musical], i
+mageUrl=[https://m.media-amazon.com/images/M/MV5BYTZmZTk0YTctMGRkMy00NzQyLTg2ODctZjM0MmM4ZDI0NzRlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL_.jpg], imd
+bId='tt2457544', imdbRating=6.0, language=[Hindi], released=2017, runtime='134 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@6c
+c787a7, synopsis='Just like the changing colors of the Blue Mountains through the changing seasons, the film explores changing human emotions and journeys beyond m
+ere winning or losing in life.', title='Blue Mountains', type='movie'},
+
+
+
+Result{genre=[Comedy, Drama], imageUrl=[https://m.media-amazon.com/images/M/MV5BZTljMGU2N2Y
+tYmIyNC00YjBkLTgyZmUtM2ZmMDY5NjVhNDFiXkEyXkFqcGdeQXVyNjYzODU3NDE@._V1_UX182_CR0,0,182,268_AL_.jpg], imdbId='tt6001910', imdbRating=4.6, language=[Tamil], released=
+2016, runtime='124 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@2568144d, synopsis='The film is about a 50-year-old vanity van
+ owner, Caravan Krishnan, who goes out of his way to help those in inter-caste relationships sort out their issues, and makes a point against caste and religion-ba
+sed division.', title='Enakku Veru Engum Kilaigal Kidayathu', type='movie'},
+
+
+
+Result{genre=[Action, Romance, Thriller], imageUrl=[https://m.media-amazon.com/images/
+M/MV5BMTg0YjM5YzctMDAxZS00YjllLWFhYjktZDIxMjJhMDJhNWNiXkEyXkFqcGdeQXVyODk4ODEyMjk@._V1_UX182_CR0,0,182,268_AL_.jpg], imdbId='tt5958298', imdbRating=5.0, language=[
+Tamil], released=2016, runtime='113 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@5c09e9ee, synopsis='The film is a remake of t
+he Telugu hit - Courier Boy Kalyan. It is the story of a courier boy who finds himself in the middle of big trouble due to a parcel he has to deliver.', title='Tam
+ilselvanum Thaniyar Anjalum', type='movie'},
+
+
+
+Result{genre=[Drama], imageUrl=[https://m.media-amazon.com/images/M/MV5BNDU2NGVjMzgtYmQ0MS00OGNjLTljYmEtZTQ1NmY4NTc1Nj
+A1XkEyXkFqcGdeQXVyMjA4NjIzMTA@._V1_UX182_CR0,0,182,268_AL_.jpg], imdbId='tt5849148', imdbRating=8.0, language=[Tamil], released=2016, runtime='124 min', streamingA
+vailability=com.ankush.sampleproject.entity.StreamingAvailability@3d987040, synopsis='It's all about father and son. A father who nurtures his son and makes him a
+good man in this society. He teaches many fathers about fatherhood and their responsibilities. This film shows ...', title='Appa', type='movie'},
+
+
+
+Result{genre=[Com
+edy, Drama], imageUrl=[https://m.media-amazon.com/images/M/MV5BMDZmOWIxNTctMTE2OS00YWZjLWFlZGItMmEwYjA5OTNhODYxXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_UY268_CR33,0,182,26
+8_AL_.jpg], imdbId='tt5849126', imdbRating=7.1, language=[Tamil], released=2016, runtime='128 min', streamingAvailability=com.ankush.sampleproject.entity.Streaming
+Availability@6db232eb, synopsis='Brothers Surya and Karthi always bicker over small issues from childhood. Things take an interesting turn when Surya's marriage is
+ fixed with Subha, who is actually in love with Karthi.', title='Raja Manthiri', type='movie'},
+
+
+
+ Result{genre=[Action, Crime, Thriller], imageUrl=[https://m.media-a
+mazon.com/images/M/MV5BZGY4NzMzOGMtZjBjZi00NzEyLWFlMjQtNTA2NWJjY2QwOTY5XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_UX182_CR0,0,182,268_AL_.jpg], imdbId='tt5833302', imdbRatin
+g=7.3, language=[Tamil], released=2016, runtime='119 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@89d996c, synopsis='A young c
+ollege student drawn into worldly pleasures joins a chain-snatching gang. Unaware of this, his elder brother teams up with a friend to bring down the gang and risi
+ng crime rate.', title='Metro', type='movie'},
+
+
+
+Result{genre=[Drama], imageUrl=[https://m.media-amazon.com/images/M/MV5BZGIzN2I3MjEtZWM4Ny00OTIzLTkxNWItZmRjYzAyYzg4
+ZmU2XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL_.jpg], imdbId='tt5832922', imdbRating=7.0, language=[Tamil], released=2016, runtime='109 min', streamin
+gAvailability=com.ankush.sampleproject.entity.StreamingAvailability@1bc84708, synopsis='A woman who works as a house help tries to teach the importance of educatio
+n to her daughter. However, her efforts go in vain as her daughter believes that she cannot afford her higher education.', title='Amma Kanakku', type='movie'}, Res
+ult{genre=[Comedy, Drama, Romance], imageUrl=[https://m.media-amazon.com/images/M/MV5BNTgzNzg4ODc5OV5BMl5BanBnXkFtZTgwOTkzODUwOTE@._V1_UY268_CR7,0,182,268_AL_.jpg]
+, imdbId='tt5717002', imdbRating=6.0, language=[Tamil], released=2016, runtime='144 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailabili
+ty@652c2e41, synopsis='Two families, who have a long-standing feud, move to the city to lead a peaceful life. They wish to get their children Shiva and Abhirami ma
+rried. But both of them always fight with each other.', title='Unnodu Ka', type='movie'},
+
+
+
+Result{genre=[Drama], imageUrl=[https://m.media-amazon.com/images/M/MV5BN
+2Q0ZmZkOWUtOWNmMy00NzlkLWE2MjAtZGNlMzJhZmFhMDk4XkEyXkFqcGdeQXVyNjczMTAxNzU@._V1_UY268_CR2,0,182,268_AL_.jpg], imdbId='tt5714802', imdbRating=6.7, language=[Hindi],
+ released=2016, runtime='110 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@19757d65, synopsis='Project Marathwada is the story
+of a Marathwada-based indebted farmer, who comes to Mumbai in hope of being helped by the Government after the suicide of his son. The story takes a turn ...', tit
+le='Project Marathwada', type='movie'},
+
+
+
+Result{genre=[Action, Crime, Thriller], imageUrl=[https://m.media-amazon.com/images/M/MV5BOGUyNzA2YTMtN2Y1Yy00YzcxLTg4M2ItN
+DZmNmZiZjRjNTUwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY268_CR0,0,182,268_AL_.jpg], imdbId='tt5642720', imdbRating=4.8, language=[Malayalam], released=2016, runtime='137
+ min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@7dc7c1de, synopsis='Rajan Zachariah, an Inspector of Police working in the Palak
+kad District on the Kerala-Karnataka border, investigates a murder case that is very important to him.', title='Kasaba', type='movie'},
+
+
+
+Result{genre=[Action, Myste
+ry, Thriller], imageUrl=[https://m.media-amazon.com/images/M/MV5BYWI5NDM2ZTctZjNiNi00Y2U5LTgyN2ItYmVkOTgxZmEyYmQ5XkEyXkFqcGdeQXVyNTE0NDY5Njc@._V1_UX182_CR0,0,182,2
+68_AL_.jpg], imdbId='tt5543690', imdbRating=5.9, language=[Tamil, Kannada], released=2016, runtime='125 min', streamingAvailability=com.ankush.sampleproject.entity
+.StreamingAvailability@246e3969, synopsis='A murder, a case of driving under the influence of alcohol, a hit-and-run, and an investigation which links the incident
+s together. A film about how a family suffers due to drunken driving.', title='Game', type='movie'},
+
+
+
+Result{genre=[Comedy, Drama], imageUrl=[https://m.media-amazon
+.com/images/M/MV5BNTYzZGU3MDUtNDQyMS00NDcwLWIzZmMtY2Q4MzhhZmM3YjE2XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR7,0,182,268_AL_.jpg], imdbId='tt5542434', imdbRating=6.1
+, language=[Tamil], released=2016, runtime='118 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@20b44583, synopsis='Aviyal is a c
+ollection of five Tamil short films made by various directors, including Alphonse Puthren, Sameer Sulthan, Lokesh Kanakaraj, Mohit Mehra and Guru Smaran.', title='
+Aviyal', type='movie'},
+
+
+
+Result{genre=[Action, Thriller], imageUrl=[https://m.media-amazon.com/images/M/MV5BOGNjNzcwZDUtMGUzMS00YmQ5LTgwNzQtZjJmMjc1MGMzMjJkXkEyXkFq
+cGdeQXVyODk1MzE5NDA@._V1_UY268_CR1,0,182,268_AL_.jpg], imdbId='tt5491920', imdbRating=7.2, language=[Tamil], released=2016, runtime='122 min', streamingAvailabilit
+y=com.ankush.sampleproject.entity.StreamingAvailability@12189aa5, synopsis='While conducting an investigation into the mysterious death of a fellow officer, a cop'
+s own reputation is questioned when a suspect in his custody is shot.', title='Sethupathi', type='movie'},
+
+
+
+Result{genre=[Crime, Drama], imageUrl=[https://m.media-a
+mazon.com/images/M/MV5BNzc1N2E0YWMtZDVmZi00YTQ3LTk0ZjAtMjEwMzVkYTRmYjg1XkEyXkFqcGdeQXVyODk1MzE5NDA@._V1_UY268_CR7,0,182,268_AL_.jpg], imdbId='tt5477194', imdbRatin
+g=8.0, language=[Tamil], released=2016, runtime='160 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@51927009, synopsis='A drama
+about an alcoholic filmmaker and his friends who bring trouble to the women in their lives.', title='Iraivi', type='movie'},
+
+
+
+Result{genre=[Action, Comedy, Crime],
+imageUrl=[https://m.media-amazon.com/images/M/MV5BMDRiZTIwMTMtODY4OS00ODY5LWIyOTItNGY4MWI0M2VlM2IxXkEyXkFqcGdeQXVyODk4ODEyMjk@._V1_UY268_CR7,0,182,268_AL_.jpg], im
+dbId='tt5459644', imdbRating=6.8, language=[Tamil], released=2016, runtime='136 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@4
+62be23, synopsis='In 2020, three guys get into trouble, while smuggling cocaine.', title='Jil Jung Juk', type='movie'},
+
+
+
+Result{genre=[Action, Thriller], imageUrl=[
+https://m.media-amazon.com/images/M/MV5BYzNjNTBkY2ItNjcwNi00ZTdhLWFhY2YtYmY4YTc2Mjg5NTBjXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UX182_CR0,0,182,268_AL_.jpg], imdbId='tt53
+35128', imdbRating=6.9, language=[Malayalam], released=2016, runtime='115 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@6f86b71
+, synopsis='A young wife hopes to convince her husband to change his short-tempered attitude toward life, but an incident on a remote highway may finally decide th
+e matter.', title='Kali', type='movie'},
+
+
+
+Result{genre=[Mystery, Thriller], imageUrl=[https://m.media-amazon.com/images/M/MV5BZDc4NGU4NzUtMmE0MC00NzBkLTg1NmQtYjhiNm
+JkOTc1MWY1XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY268_CR3,0,182,268_AL_.jpg], imdbId='tt5323568', imdbRating=6.5, language=[Malayalam], released=2016, runtime='132 min'
+, streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@506304b9, synopsis='A story about Louis Pothen, a divorce lawyer and his wife Vasuki
+Iyer, a kathakali dancer.', title='Puthiya Niyamam', type='movie'},
+
+
+
+Result{genre=[Fantasy, Horror, Mystery], imageUrl=[https://m.media-amazon.com/images/M/MV5BOTg3
+MGIwMGUtOTlmZS00YTA2LTk1ZGUtYmVmOTEyNTQyNTM4XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR10,0,182,268_AL_.jpg], imdbId='tt5288552', imdbRating=6.3, language=[Tamil], r
+eleased=2016, runtime='159 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@12333484, synopsis='Strange events start happening to
+a woman after marriage.', title='Zero', type='movie'},
+
+
+
+Result{genre=[Action, Drama, Thriller], imageUrl=[https://m.media-amazon.com/images/M/MV5BZDkyNTM4OTQtMGYzZi
+00MDY1LWJkNDItNDc1MjFlZDMwNDQ1XkEyXkFqcGdeQXVyMjMwODI3NDE@._V1_UX182_CR0,0,182,268_AL_.jpg], imdbId='tt5215260', imdbRating=5.0, language=[Tamil], released=2016, r
+untime='124 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@3311347, synopsis='Ko 2 revolves around a man who kidnaps the chief m
+inister of the state and the mystery over why he does so.', title='Ko 2', type='movie'},
+
+
+
+Result{genre=[Comedy, Drama, Romance], imageUrl=[https://m.media-amazon.co
+m/images/M/MV5BMTcxNzUyOWItYzY1OC00MmUyLWI5NjEtY2VmM2IzNjQ2NjY3XkEyXkFqcGdeQXVyODk1MzE5NDA@._V1_UY268_CR7,0,182,268_AL_.jpg], imdbId='tt5200962', imdbRating=7.3, l
+anguage=[Tamil], released=2016, runtime='136 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@46d753b3, synopsis='An unlikely roma
+nce brews between a tough-acting thug with a tender heart, and a recently single, IT consultant neighbor, in this lighthearted and wacky twist of a romantic comedy
+.', title='Kadhalum Kadanthu Pogum', type='movie'},
+
+
+
+Result{genre=[Action, Sci-Fi, Thriller], imageUrl=[https://m.media-amazon.com/images/M/MV5BMGU2Y2JhZmItMDU4Ni00
+NDA4LTg0MGMtYjlkZWMwMDdiZWE0XkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_UX182_CR0,0,182,268_AL_.jpg], imdbId='tt4981966', imdbRating=7.8, language=[Tamil], released=2016, run
+time='164 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@e59d11c, synopsis='A scientist invents a time machine, which leads to a
+ bitter battle between his evil twin brother and his son.', title='24', type='movie'},
+
+
+
+ Result{genre=[Biography, Drama], imageUrl=[https://m.media-amazon.com/images
+/M/MV5BMjA3NjkzNjg2MF5BMl5BanBnXkFtZTgwMDkyMzgzMDI@._V1_UY268_CR0,0,182,268_AL_.jpg], imdbId='tt3741834', imdbRating=8.0, language=[English, Hindi, Bengali], relea
+sed=2016, runtime='118 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@5c54347, synopsis='A five-year-old Indian boy is adopted b
+y an Australian couple after getting lost hundreds of kilometers from home. 25 years later, he sets out to find his lost family.', title='Lion', type='movie'}, Res
+ult{genre=[Thriller], imageUrl=[https://m.media-amazon.com/images/M/MV5BNDcyNjY0ZjEtMjFkZC00MGFhLTg5MDYtYjkzM2NhMjI3ZjY1XkEyXkFqcGdeQXVyNjU2MDE5Nzk@._V1_UY268_CR9,
+0,182,268_AL_.jpg], imdbId='tt3590416', imdbRating=5.7, language=[English, Hindi], released=2016, runtime='120 min', streamingAvailability=com.ankush.sampleproject
+.entity.StreamingAvailability@ee5d393, synopsis='A conman finds refuge in becoming a baba and carries out his various criminal activities under the guise. A police
+man, a journalist and politicians get entangled in his Web of deceit.', title='Global Baba', type='movie'},
+
+
+
+Result{genre=[Action, Sci-Fi, Thriller], imageUrl=[http
+s://m.media-amazon.com/images/M/MV5BMTg0ODc4Mzk2OF5BMl5BanBnXkFtZTgwNDk2MDkyODE@._V1_UX182_CR0,0,182,268_AL_.jpg], imdbId='tt3014866', imdbRating=6.3, language=[En
+glish, French, Russian], released=2016, runtime='113 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@72535337, synopsis='In a las
+t-ditch effort to stop a diabolical plot, a dead CIA operative's memories, secrets, and skills are implanted into a death-row inmate in hopes that he will complete
+ the operative's mission.', title='Criminal', type='movie'},
+
+
+
+ Result{genre=[Drama], imageUrl=[https://m.media-amazon.com/images/M/MV5BNWI2NTc2ZGMtMTU5NC00MWVjLWFkMm
+EtYjgwODA5NTRjZThmXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_UY268_CR3,0,182,268_AL_.jpg], imdbId='tt6106852', imdbRating=5.8, language=[Malayalam], released=2015, runtime='
+143 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@32c2ad50, synopsis='An anthology narrating three unrelated short stories.', t
+itle='Aana Mayil Ottakam', type='movie'},
+
+
+
+Result{genre=[Comedy, Drama, Romance], imageUrl=[https://m.media-amazon.com/images/M/MV5BMzJhNjMyOGMtYjhiYy00ZTAwLThmZWUt
+ZmE5NzI3OTk4Y2M4XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_UY268_CR9,0,182,268_AL_.jpg], imdbId='tt4679210', imdbRating=8.3, language=[Malayalam], released=2015, runtime='15
+6 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@1db21f34, synopsis='A young man has three opportunities to find love. Will the
+third time be the charm?', title='Premam', type='movie'},
+
+
+
+Result{genre=[Drama], imageUrl=[https://m.media-amazon.com/images/M/MV5BZjMyZDYyODUtOWFiOC00OTYxLTk3YTctZ
+Dg2M2Y1NWU4MmIzXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_UY268_CR0,0,182,268_AL_.jpg], imdbId='tt4664092', imdbRating=5.4, language=[Malayalam], released=2015, runtime='104
+ min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@3deb2e5a, synopsis='Two Police Constables with a prisoner in search of an escape
+d prisoner while conveying from Kannur to Trivandrum.', title='Oru Second Class Yathra', type='movie'},
+
+
+
+Result{genre=[Comedy, Drama, Mystery], imageUrl=[https://m.
+media-amazon.com/images/M/MV5BZTUxMDUzN2EtNjJlZi00ZjFlLTg1MGQtMTFjZTg2MzFmMzAxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL_.jpg], imdbId='tt4373886', im
+dbRating=5.1, language=[Hindi], released=2015, runtime='108 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@5549083b, synopsis='A
+ mysterious sum of money is credited into Prithvi Khurrana, a commoner's bank account. It is allegedly done by a top notorious don.This forms the crux of the film
+leading to subsequent comical situations.', title='Sharafat Gayi Tel Lene', type='movie'},
+
+
+
+Result{genre=[Action, Drama, Musical], imageUrl=[https://m.media-amazon.
+com/images/M/MV5BYzY0NWEzYTctNzg5Yi00OTM0LTlkMGMtYWE1MTYyZjdjNWFjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL_.jpg], imdbId='tt3595298', imdbRating=4.5,
+ language=[Hindi, Tamil, English, French], released=2015, runtime='164 min', streamingAvailability=com.ankush.sampleproject.entity.StreamingAvailability@724687ef,
+synopsis='While recovering from an assassination attempt four days before his coronation, a stern prince is replaced by a romantic lookalike.', title='Found a Trea
+sure Called Love', type='movie'}]}
